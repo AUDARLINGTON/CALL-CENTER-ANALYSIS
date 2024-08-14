@@ -13,6 +13,10 @@ various aspects of the call center data, we seek to see trends of calls, respons
 I'd appreciate it if you could gain a deeper understanding of the call center performance.
 
 
+![Call Center dash](https://github.com/user-attachments/assets/2278f18c-453a-4228-974a-63be50655b5d)
+
+
+
 ### Data Sources
 
 The primary dataset used for this analysis is the "call center data cvs file" containing details about each call by the call center.
